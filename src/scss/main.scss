@@ -1,0 +1,178 @@
+
+@font-face {
+  font-family: 'Ubuntu-Bold';
+  src: url('~@/assets/fonts/Ubuntu-Bold.ttf') format('truetype');
+
+} 
+@font-face {
+    font-family: 'Ubuntu-Light';
+    src: url('~@/assets/fonts/Ubuntu-Light.ttf') format('truetype');
+  } 
+
+  @font-face {
+    font-family: 'Ubuntu-Medium';
+    src: url('~@/assets/fonts/Ubuntu-Medium.ttf') format('truetype');
+  } 
+
+  
+  @font-face {
+    font-family: 'Ubuntu-Regular';
+    src: url('~@/assets/fonts/Ubuntu-Regular.ttf') format('truetype');
+  } 
+
+  @font-face {
+    font-family: 'Merriweather-Bold';
+    src: url('~@/assets/fonts/Merriweather-Bold.ttf') format('truetype');
+  } 
+
+  @font-face {
+    font-family: 'Merriweather-Black';
+    src: url('~@/assets/fonts/Merriweather-Black.ttf') format('truetype');
+  } 
+  
+  @font-face {
+    font-family: 'Merriweather-Light';
+    src: url('~@/assets/fonts/Merriweather-Light.ttf') format('truetype');
+  } 
+
+  @font-face {
+    font-family: 'Merriweather-Regular';
+    src: url('~@/assets/fonts/Merriweather-Regular.ttf') format('truetype');
+  } 
+
+  
+  @font-face {
+    font-family: 'Gilroy-Regular';
+    src: url('~@/assets/fonts/Gilroy-Regular.ttf') format('truetype');
+  } 
+
+  @font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('~@/assets/fonts/Gilroy-Medium.ttf') format('truetype');
+  } 
+
+  @font-face {
+    font-family: 'Gilroy-SemiBold';
+    src: url('~@/assets/fonts/Gilroy-SemiBold.ttf') format('truetype');
+  } 
+
+
+  @font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('~@/assets/fonts/Gilroy-Bold.ttf') format('truetype');
+  } 
+
+
+
+
+  @font-face {
+    font-family: 'Moderat-Bold';
+    src: url('~@/assets/fonts/Moderat-Bold.ttf') format('truetype');
+  } 
+
+  @font-face {
+    font-family: 'Moderat-Regular';
+    src: url('~@/assets/fonts/Moderat-Regular.ttf') format('truetype');
+  } 
+
+  
+  @font-face {
+    font-family: 'Inter-Medium';
+    src: url('~@/assets/fonts/Inter-Medium.ttf') format('truetype');
+
+  }
+     
+  @font-face {
+    font-family: 'Inter-Regular';
+    src: url('~@/assets/fonts/Inter-Regular.ttf') format('truetype');
+  } 
+
+  @font-face {
+    font-family: 'Roboto-Regular';
+    src: url('~@/assets/fonts/Roboto-Regular.ttf') format('truetype');
+  } 
+
+  
+  @font-face {
+    font-family: 'Roboto-Medium';
+    src: url('~@/assets/fonts/Roboto-Regular.ttf') format('truetype');
+  } 
+
+  @font-face {
+    font-family: 'Poppins-Regular';
+    src: url('~@/assets/fonts/Poppins-Regular.otf');
+  }
+  
+  @font-face {
+    font-family: 'Poppins-SemiBold';
+    src: url('~@/assets/fonts/Poppins-SemiBold.otf');
+  } 
+  @font-face {
+    font-family: 'Poppins-Light';
+    src: url('~@/assets/fonts/Poppins-Light.otf');
+  } 
+
+  @font-face {
+    font-family: 'Poppins-Medium';
+    src: url('~@/assets/fonts/Poppins-Medium.otf');
+  } 
+
+
+  @font-face {
+    font-family: 'Transporticon';
+    src: url('~@/assets/fonts/transporticon.ttf') format('truetype');
+  } 
+
+
+
+
+  $ub:"Ubuntu-Bold";
+  $ul:"Ubuntu-Light";
+  $um:"Ubuntu-Medium";
+  $ur:"Ubuntu-Regular";
+
+  $mb:"Merriweather-Bold";
+  $ml:"Merriweather-Light";
+  $mbl:"Merriweather-Black";
+  $mr:"Merriweather-Regular";
+
+
+  $rr:"Rubik-Regular";
+
+
+
+  $gr:"Gilroy-Regular";
+  $gm:"Gilroy-Medium";
+  $gsb:"Gilroy-SemiBold";
+  $gb:"Gilroy-Bold";
+
+
+
+  $mn:"Moderat-Regular";
+  $mdb:"Moderat-Bold";
+
+  $im:"Inter-Medium";
+  $ir:"Inter-Regular";
+
+  $rg:"Roboto-Regular";
+
+  $rm:"Roboto-Medium";
+
+  $pr:"Poppins-Regular";
+  $ps:"Poppins-SemiBold";
+  $pm:"Poppins-Medium";
+
+  $pl:"Poppins-Light";
+
+
+  $transporticn:"Transporticon";
+
+
+
+  $w:white;
+  $main:#2C8EEA;
+  $text:#4A4A4A;
+  $main2:#85A3C9;
+  $searhbtns:#B8D6FC
+  
+
